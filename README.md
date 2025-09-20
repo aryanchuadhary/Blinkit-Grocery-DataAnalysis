@@ -8,10 +8,10 @@ The dashboards provide insights into **sales trends, outlet performance, product
 ## 🚀 Dashboards  
 
 ### 🖼️ Dashboard 1  
-![Dashboard 1](https://github.com/aryanchuadhary/Blinkit-Grocery-DataAnalysis/blob/main/Dashboard%20Image%201.png)  
+![Dashboard 1](https://github.com/aryanchuadhary/Blinkit-Grocery-DataAnalysis/blob/main/Dashboard%201.png) 
 
 ### 🖼️ Dashboard 2  
-![Dashboard 2](https://github.com/aryanchuadhary/Blinkit-Grocery-DataAnalysis/blob/main/Dashboard%20Image%202.png)  
+![Dashboard 2](https://github.com/aryanchuadhary/Blinkit-Grocery-DataAnalysis/blob/main/Dashboard%202.png)
 
 ---
 
